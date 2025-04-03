@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\DataBukuApp\DataBukuApp\bin\Debug\DataBukuApp.exe.config
+C:\Users\asus\source\repos\DataBukuApp\DataBukuApp\bin\Debug\DataBukuApp.exe
+C:\Users\asus\source\repos\DataBukuApp\DataBukuApp\bin\Debug\DataBukuApp.pdb
+C:\Users\asus\source\repos\DataBukuApp\DataBukuApp\obj\Debug\DataBukuApp.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\DataBukuApp\DataBukuApp\obj\Debug\DataBukuApp.Form1.resources
+C:\Users\asus\source\repos\DataBukuApp\DataBukuApp\obj\Debug\DataBukuApp.Properties.Resources.resources
+C:\Users\asus\source\repos\DataBukuApp\DataBukuApp\obj\Debug\DataBukuApp.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\DataBukuApp\DataBukuApp\obj\Debug\DataBukuApp.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\DataBukuApp\DataBukuApp\obj\Debug\DataBukuApp.exe
+C:\Users\asus\source\repos\DataBukuApp\DataBukuApp\obj\Debug\DataBukuApp.pdb
